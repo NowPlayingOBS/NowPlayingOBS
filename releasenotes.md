@@ -1,6 +1,6 @@
 # Release Notes
 
-## v1.0.1 (Beta) - Latest
+## v1.0.2 (Beta) - Latest
 - Released TV mode v1
 - Fixed a text overflowing bug related to the normal OBS widget
 - Added the releasenotes to our website footer
