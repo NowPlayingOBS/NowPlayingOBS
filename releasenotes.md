@@ -1,6 +1,12 @@
 # Release Notes
 
-## v1.0.3 (Beta) - Latest
+## v1.0.4 (Beta) - Latest
+- Added a brand new backend connections system that requires less wet code
+- Added Nightbot integration (connection)
+- Added a fallback cover art for song requests through Nightbot etc.
+- Fixed a TV mode bug related to artist text on top of song title text
+
+## v1.0.3 (Beta)
 - Made TV mode more responsive
 - Added a gradient on the home page
 - Added the NowPlaying branding to the website. This includes the Logo and some gradient texts
