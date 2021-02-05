@@ -1,5 +1,8 @@
 # Release Notes
 
+## v1.0.5 (Public) - Latest
+- Added user banning
+
 ## v1.0.4 (Beta) - Latest
 - Added a brand new backend connections system that requires less wet code
 - Added Nightbot integration (connection)
