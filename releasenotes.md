@@ -1,6 +1,10 @@
 # Release Notes
 
-## v1.0.5 (Public) - Latest
+## v1.0.6 (Public) - Latest
+- Maintenance at the back of the code
+- Added some basic logging to see what issues occur
+
+## v1.0.5 (Public)
 - Added user banning
 
 ## v1.0.4 (Beta)
